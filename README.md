@@ -10,7 +10,7 @@
 ---
 
 ## 1. GitHub Repository พร้อม Complete Source Code  
-🔗 https://github.com/Nanthawat67/portfolio-website
+🔗 https://github.com/Nanthawat67/portfolio-website/blob/main/index.html
 
 ---
 
@@ -43,10 +43,8 @@
 - ปุ่มและลิงก์ไปยังโซเชียลมีเดีย เช่น GitHub, Facebook  
 - การออกแบบ UI ให้ทันสมัยและ responsive สำหรับมือถือและแท็บเล็ต
 
-#### วิธีดูโค้ด
-- เปิดดูโค้ดได้ที่ไฟล์ [index.html](https://github.com/Nanthawat67/portfolio-website/blob/main/index.html)
 
 ---
 
 ## 5. Reflection Report (สิ่งที่เรียนรู้จากการทำโปรเจกต์นี้)  
-📄 [เปิดเอกสาร Reflection Report (Google Docs)](https://docs.google.com/document/d/1U3MeeXHytkBGA3ameXkVx6Xb9yDsF2T6xprgF0_J9Dw/edit?usp=sharing)
+📄 เปิดเอกสาร Reflection Report [Google Docs](https://docs.google.com/document/d/1U3MeeXHytkBGA3ameXkVx6Xb9yDsF2T6xprgF0_J9Dw/edit?usp=sharing)
